@@ -1,9 +1,9 @@
 <p align=center>
 <picture><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Purdue_Boilermakers_logo.svg/1200px-Purdue_Boilermakers_logo.svg.png" alt="Purdue Logo" width=200></picture>
 </p>
-<p style="font-size:40px;" align=center>
+<h1 style="font-size:40px;" align=center>
 NanoMetaML Team 
-</p>
+</h1>
 
 Welcome to the NanoML (NanoMetaML) team's github repo! We are a team of researchers at Purdue University and Oak Ridge National Lab working on the intersection of quantum computing, nanophotonics, and machine learning.
 Our team develops high quality machine learning code, reproducible that we hope you can utilize for your own projects.
@@ -11,9 +11,9 @@ We focus on speeding up the characterization of materials in laboratory settings
 
 We take a first principles approach to develop new perspectives at the intersection of physics, computer science, and machine learning.
 
-<p style="font-size:30px;" align=center>
+<h1 style="font-size:30px;" align=center>
 Collaborations 
-</p>
+</h1>
 
 ## Collaborators
 
@@ -27,9 +27,9 @@ Collaborations
 
 Our team is always looking for new opportunities for collaboration. If you are interested in starting a new project or collaborating on one of our ongoing research efforts, please reach out to Blake Wilson at wilso692@purdue.edu or Alexandra Boltasseva at aeb@purdue.edu.
 
-<p style="font-size:30px;" align=center>
+<h1 style="font-size:30px;" align=center>
 Team Languages 
-</p>
+</h1>
 
 ![Python](https://img.shields.io/badge/-Python-cfb991?logo=python&logoColor=white&style=for-the-badge)
 ![Cpp](https://img.shields.io/badge/-C++-cfb991?logo=cplusplus&logoColor=white&style=for-the-badge)
@@ -48,19 +48,19 @@ Our goal is to make our code as easy as
     pip install our-package
 
 
-## Why do we as academics care?
+## Why do we as academics care about good code?
 
 Academia's goal is to further humanity's knowledge and provide access to education with as few hurdles as possible. By making our code easy to use, we bring academia's goal closer to reality and open doors for anyone to come into science. Virtual environments, version control, and proper packaging make our code easily accessible and give access closer to anyone.
 
-## Version Control
+### Version Control
 
 Git helps us track changes in our code, collaborate with other team members, and manage releases. It also allows others to easily contribute to our projects and fork them for their own use.
 
-## Virtual Environments
+### Virtual Environments
 
 Virtual environments are essential for isolating project dependencies and avoiding conflicts between different Python packages. We use virtual environments to manage and install project-specific packages, ensuring a consistent and reproducible development environment for all contributors.
 
-## Packaging
+### Packaging
 
 Packaging code is a widely used package management tool for Python. We use it to define, package, and distribute our code as reusable modules or libraries. This makes it easy for others to install and use our code without worrying about dependencies or compatibility issues.
 
