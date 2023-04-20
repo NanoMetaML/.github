@@ -6,7 +6,7 @@ NanoMetaML Team
 </h1>
 
 Welcome to the NanoML (NanoMetaML) team's github repo! We are a team of researchers at Purdue University and Oak Ridge National Lab working on the intersection of quantum computing, nanophotonics, and machine learning.
-Our team develops high quality machine learning code, reproducible that we hope you can utilize for your own projects.
+Our team develops high quality machine learning code and we hope it is useful for your projects!
 We focus on speeding up the characterization of materials in laboratory settings, generation of unique nanophotonic and quantum devices, and fast algorithms written in Rust, Python, C/C++.  
 
 We take a first principles approach to develop new perspectives at the intersection of physics, computer science, and machine learning.
