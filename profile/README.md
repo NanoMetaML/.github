@@ -15,15 +15,13 @@ We take a first principles approach to develop new perspectives at the intersect
 Collaborations 
 </h1>
 
-## Collaborators
-
 <picture><img src="https://techcrunch.com/wp-content/uploads/2021/11/QuEra-Computing-Inc.-logo-black.png?w=300" alt="Purdue Logo" height=70></picture>
 <picture><img src="https://www.pngmart.com/files/4/Microsoft-Logo-PNG-Transparent.png" alt="Purdue Logo" height=70></picture>
 <picture><img src="https://qscience.org/wp-content/uploads/2020/09/QSCLogo_White_SM.png" alt="Purdue Logo" height=70></picture>
 <picture><img src="https://1000logos.net/wp-content/uploads/2017/02/Harvard-Logo.png" alt="Purdue Logo" height=70></picture>
 
 
-## Policy
+## Collaboration Policy
 
 Our team is always looking for new opportunities for collaboration. If you are interested in starting a new project or collaborating on one of our ongoing research efforts, please reach out to Blake Wilson at wilso692@purdue.edu or Alexandra Boltasseva at aeb@purdue.edu.
 
