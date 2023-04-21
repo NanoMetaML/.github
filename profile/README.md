@@ -19,7 +19,7 @@ Collaborations
 <picture><img src="https://www.pngmart.com/files/4/Microsoft-Logo-PNG-Transparent.png" alt="Purdue Logo" height=70></picture>
 <picture><img src="https://qscience.org/wp-content/uploads/2020/09/QSCLogo_White_SM.png" alt="Purdue Logo" height=70></picture>
 <picture><img src="https://1000logos.net/wp-content/uploads/2017/02/Harvard-Logo.png" alt="Purdue Logo" height=70></picture>
-
+<picture><img src="https://tnadvancedenergy.com/site/wp-content/uploads/2015/10/Logo_ORNL-1.png" alt="Purdue Logo" height=70></picture>
 
 ## Collaboration Policy
 
