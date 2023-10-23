@@ -16,8 +16,8 @@ Collaborations
 </h1>
 
 <picture><img src="https://techcrunch.com/wp-content/uploads/2021/11/QuEra-Computing-Inc.-logo-black.png?w=300" alt="Purdue Logo" height=70></picture>
-<picture><img src="https://en.m.wikipedia.org/wiki/File:Microsoft_logo_%282012%29.svg" alt="Microsoft Logo" height=70></picture>
-<picture><img src="https://qscience.org/wp-content/uploads/2020/09/QSCLogo_White_SM.png" alt="Purdue Logo" height=70></picture>
+<picture><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Microsoft_logo_%282012%29.svg/512px-Microsoft_logo_%282012%29.svg.png" alt="Microsoft Logo" height=70></picture>
+<picture><img src="https://www.ornl.gov/sites/default/files/styles/large/public/2020-08/QSCLogo_Color_H%5B1%5D.jpg" alt="Purdue Logo" height=70></picture>
 <picture><img src="https://1000logos.net/wp-content/uploads/2017/02/Harvard-Logo.png" alt="Purdue Logo" height=70></picture>
 <picture><img src="https://tnadvancedenergy.com/site/wp-content/uploads/2015/10/Logo_ORNL-1.png" alt="Purdue Logo" height=70></picture>
 
