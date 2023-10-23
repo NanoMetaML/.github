@@ -7,7 +7,7 @@ NanoMetaML Team
 
 Welcome to the NanoML (NanoMetaML) team's github repo! We are a team of researchers at Purdue University and Oak Ridge National Lab working on the intersection of quantum computing, nanophotonics, and machine learning.
 Our team develops high quality machine learning code and we hope it is useful for your projects!
-We focus on speeding up the characterization of materials in laboratory settings, generation of unique nanophotonic and quantum devices, and fast algorithms written in Rust, Python, C/C++.  
+We focus on speeding up the characterization of materials in laboratory settings, generation of unique nanophotonic and quantum devices, and fast algorithms written in Python and C/C++.  
 
 We take a first principles approach to develop new perspectives at the intersection of physics, computer science, and machine learning.
 
@@ -32,7 +32,6 @@ Team Languages
 ![Python](https://img.shields.io/badge/-Python-cfb991?logo=python&logoColor=white&style=for-the-badge)
 ![Cpp](https://img.shields.io/badge/-C++-cfb991?logo=cplusplus&logoColor=white&style=for-the-badge)
 ![C](https://img.shields.io/badge/-C-cfb991?logo=c&logoColor=white&style=for-the-badge)
-![Rust](https://img.shields.io/badge/-Rust-cfb991?logo=rust&logoColor=white&style=for-the-badge)
 
 
 We implement 3 pretty standard systems for managing our repos.
