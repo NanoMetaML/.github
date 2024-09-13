@@ -74,7 +74,7 @@ If you see this message, everything is working properly!
 ### Optional
 
 Become a collaborator on the NanoMetaML organization!!
-Email Blake Wilson and Alexandra Boltasseva at wilso692@purdue.edu and aeb@purdue.edu for information on collaborating with our team.
+Email Yuheng Chen and Alexandra Boltasseva at chen4114@purdue.edu and aeb@purdue.edu for information on collaborating with our team.
 
 # Contributing
 
