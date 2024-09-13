@@ -23,7 +23,7 @@ Collaborations
 
 ## Collaboration Policy
 
-Our team is always looking for new opportunities for collaboration. If you are interested in starting a new project or collaborating on one of our ongoing research efforts, please reach out to Blake Wilson at wilso692@purdue.edu or Alexandra Boltasseva at aeb@purdue.edu.
+Our team is always looking for new opportunities for collaboration. If you are interested in starting a new project or collaborating on one of our ongoing research efforts, please reach out to Yuheng Chen at chen4114@purdue.edu or Alexandra Boltasseva at aeb@purdue.edu.
 
 <h1 style="font-size:30px;" align=center>
 Team Languages 
